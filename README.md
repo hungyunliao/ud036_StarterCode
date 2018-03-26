@@ -3,8 +3,7 @@
 Movie Trailer is a webpage that allows users to view the posters and trailers of movies.
 
 ## Installation
-Install Pyathon via Homebrew.
-
+Install Python via Homebrew.
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew install python
