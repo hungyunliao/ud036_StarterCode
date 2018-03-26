@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
 
+# Instantiate movie objects
 cold_war = media.Movie("Cold War", 
                        "https://img.char.tw/uploads/2017/08/1502983441-ae9a662bcafd635a2595e7892dc792c3.jpg", 
                        "https://www.youtube.com/watch?v=6_SAdcvKbaY");
@@ -25,6 +26,8 @@ eva_advance = media.Movie("Eva:<br>You Can (Not) Advance",
                           "http://t3.gstatic.com/images?q=tbn:ANd9GcSx2EVXG44dnybJe7j3gifGcuEuDVO2cmYPyiOVcqT3aYNEj2y4", # NOQA
                           "https://www.youtube.com/watch?v=0qil1D3KcqE");
 
+# Make a list of movie objects
 movies = [cold_war, cold_war_two, star_wars_fa, star_wars_lj, eva_alone, eva_advance]
 
+# Generate and open the html page
 fresh_tomatoes.open_movies_page(movies);
