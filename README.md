@@ -25,3 +25,4 @@ After this, your browser should automatically open the page and enjoying viewing
 
 
 ## License
+Released under MIT License, which can be found in [LICENSE.txt](./LICENSE.txt)
