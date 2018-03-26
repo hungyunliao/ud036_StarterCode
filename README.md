@@ -21,7 +21,7 @@ Run the python script to generate the Movie Trailer webpage.
 ```
 python entertainment_center.py
 ```
-After this, your browser should automatically open the page and enjoying viewing the trailers by clicking on the movie posters.
+After this, your browser should automatically open the webpage and please enjoy viewing the trailers by clicking on the movie posters.
 
 
 ## License
